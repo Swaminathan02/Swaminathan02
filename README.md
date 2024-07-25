@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swaminathan02
 - 👀 I’m interested in Coding, App development, Machine Learning
-- 🌱 I’m a Research Intern at NIT-T
+- 🌱 Research Intern at NIT-T
 - 💞️ I’m looking to collaborate on Higher Companies
 - 📫 You can reach me through the mail id srinath0209@gmail.com
 - 😄 Pronouns: He/Him
